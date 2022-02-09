@@ -1,4 +1,4 @@
-# Bash
+# Backup
 
 Name and surname: Wiktoria Szweda  
 
