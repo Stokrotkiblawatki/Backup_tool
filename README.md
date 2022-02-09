@@ -1,4 +1,4 @@
-# Backup
+# Backup tool
 
 Name and surname: Wiktoria Szweda  
 
